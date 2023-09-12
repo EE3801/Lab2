@@ -24,4 +24,4 @@ This part consists of:
 >
 > <p class="warn"> [TBD]
 >
-> in **PDF format only**, and name the file `Lab4B_YourName_Report.pdf`
+> in **PDF format only**, and name the file `Lab4B_YourName.pdf`
