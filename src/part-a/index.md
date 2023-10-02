@@ -10,7 +10,7 @@ This part consists of:
 
 > <p class="task"> Task
 >
-> Submit the following task for lab report for Part A: 
+> Submit the following tasks for the lab report for Part A: 
 > - Step [14](1.md#14)
 > - Step [15](1.md#15)
 > 
@@ -18,4 +18,4 @@ This part consists of:
 >
 > <p class="warn"> the end of the lab session at 2 pm on Oct 9th (Monday)
 >
-> in **PDF format only**, and name the file `Lab4A_YourName.pdf`
+> in **PDF format only** to the **Lab 4A** folder, and name the file `Lab4A_YourName.pdf`

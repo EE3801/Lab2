@@ -24,4 +24,4 @@ This part consists of:
 >
 > <p class="warn"> 9 pm on Oct 11th (Wednesday)
 >
-> in **PDF format only**, and name the file `Lab4B_YourName.pdf`
+> in **PDF format only** to the **Lab 4B** folder, and name the file `Lab4B_YourName.pdf`
